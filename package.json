@@ -1,0 +1,27 @@
+{
+  "name": "Bootcamp_activity",
+  "version": "1.0.0",
+  "description": "siri but liri",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "moment": "^2.24.0",
+    "spotify-web-api-node": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birdmw/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birdmw/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/birdmw/liri-node-app#readme"
+}
